@@ -42,6 +42,7 @@ text-align: center;
     /* position: relative; */
     background-image: url(../img/gedung1.jpg);
     color: lime;
+    background-repeat: no-repeat;
 }
 #company button a{
     text-decoration: none;
@@ -52,23 +53,19 @@ text-align: center;
 }
 #our_project{
     text-align: center;
+    min-height: 180px;
 }
-/* .gambar{
+.gambar{
 float: left;
 width:30%;
 margin:20px;
 height:100px;
 text-align: center;
 }
-#our_customers li{
-    float: right;
-    padding-top: 20px;
-    width:200px;
-} */
-#our_customers ul li{
-    margin:20px;
-    float: left;
-    width: 450px;
+#our_customers{
+    margin-top:500px;
+    width:100%;
+    height:400px;
 }
 #our_customers ul{
     list-style-type: none;

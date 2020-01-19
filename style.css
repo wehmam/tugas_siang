@@ -59,3 +59,15 @@ padding:20px;
 height:100px;
 text-align: center;
 }
+#our_customers ul li{
+    margin:20px;
+    float: left;
+    width: 190px;
+}
+#our_customers ul{
+    list-style-type: none;
+}
+#our_customers ul li img{
+    width:240px;
+    height: 80px;
+}
