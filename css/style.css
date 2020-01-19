@@ -70,3 +70,15 @@ text-align: center;
 #our_customers ul{
     list-style-type: none;
 }
+#our_customers ul li img{
+    width:200px;
+    height:60px;
+    float:left;
+    margin:20px;
+}
+h2{
+    text-align: center;
+}
+#our_customers hr{
+    width: 180px;
+}
