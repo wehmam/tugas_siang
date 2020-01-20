@@ -19,6 +19,9 @@ body{
     text-decoration: none;
     color:black;
 }
+.home hr{
+    width:100px;
+}
 .box{
    box-sizing: border-box;
 }
@@ -26,9 +29,10 @@ body{
 float: left;
 width:30%;
 padding:20px;
-height:300px;
+height:250px;
 text-align: center;
-/* background-color:grey; */
+background-color:grey;
+margin:20px;
 }
 .kolom {
     padding-top:100px ;
