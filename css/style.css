@@ -1,8 +1,18 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+.header img{
+    width: 45px;
+    height: 40px;
+}
 .header{
-    width:500px;
+    background-color: black;
+    color:white;
+    margin-bottom: -16px;
+}
+.header a{
+    text-decoration: none;
+    color:orange;
 }
 .menu ul{
     list-style-type: none;
@@ -117,3 +127,4 @@ text-align: center;
     height: 50px;
     text-align: center;
 }
+
